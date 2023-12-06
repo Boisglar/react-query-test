@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.valute_table {
+  width: 900px;
+  margin: auto;
+  margin-top: 40px;
+  border: 1px solid;
+}
